@@ -203,6 +203,24 @@ footer{
     width: 100%;
     grid-template-columns: 30% 70% ;
 }
+#email-student{
+    clear: both;
+    display: block;
+    margin-top: 2rem;
+}
+.email{
+    padding: 15px 25px;
+    background-image: linear-gradient( 135deg, rgb(244 67 54 / .5) 10%, rgb(54 9 64 / .5) 100%);
+    color: #fff;
+    display: flex;
+    width: fit-content;
+    box-shadow: 1px 1px 10px #000;
+    border-radius: 7px;
+}
+#sosial-media{
+    margin-right: 2rem;
+    display: inline-flex;
+    list-style: none;
 #sosial-media{
     margin-right: 2rem;
     display: inline-flex;
